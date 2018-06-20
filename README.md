@@ -1,6 +1,3 @@
-# Algorithmic-Governance-in-Smart-Cities
-Algorithmic Governance in Smart Cities
-
 > **If you use the resources (algorithm, code and dataset) presented in this repository, please cite our paper.**  
 *The BibTeX entry is provided at the bottom of this page. 
 
@@ -9,11 +6,11 @@ Pervasive and mobile computing technologies can make our everyday living environ
 
 This repository contains resources developed within the following paper:
 
-  Zambonelli, F., Salim, F., Loke, S. W., De Meuter, W., & Kanhere, S. (2018). 
-  Algorithmic Governance in Smart Cities: The Conundrum and the Potential of Pervasive Computing Solutions. 
-  IEEE Technology and Society Magazine, 37(2), 80-87.
+	Zambonelli, F., Salim, F., Loke, S. W., De Meuter, W., & Kanhere, S. (2018). 
+	Algorithmic Governance in Smart Cities: The Conundrum and the Potential of Pervasive Computing Solutions. 
+	IEEE Technology and Society Magazine, 37(2), 80-87.
   
-You can find the [paper](link_to_your_github_pdf_resource_file.pdf) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/Algorithmic-Governance-in-Smart-Cities/blob/master/paper/zambonelli2018algorithmic.pdf) in this repository. 
 
 Alternative link: https://ieeexplore.ieee.org/document/8371566/
 
